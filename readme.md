@@ -12,5 +12,7 @@ In this project you can find very basic implementations of the OOP patterns desc
 - *Singleton* - provides an object that has only one instance.
 
 ### Structural
+- *Adapter* - adapts the interface of one class to another.
+
 
 ### Behavioral
