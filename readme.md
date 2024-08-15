@@ -13,6 +13,7 @@ In this project you can find very basic implementations of the OOP patterns desc
 
 ### Structural
 - *Adapter* - adapts the interface of one class to another.
+- *Bridge* - separates abstraction from implementation using 2 parts.
 
 
 ### Behavioral
