@@ -2,6 +2,8 @@
 
 In this project you can find very basic implementations of the OOP patterns described in the 1994 book **Design Patterns: Elements of Reusable Object-Oriented Software**.
 
+Special thanks to https://refactoring.guru for pattern descriptions.
+
 ## Currently implemented patterns
 
 ### Creational
@@ -21,3 +23,5 @@ In this project you can find very basic implementations of the OOP patterns desc
 - *Proxy* - provides a placeholder for another object
 
 ### Behavioral
+- *Chain of Responsibility* - allows to pass a request along a chain of handlers
+- 
