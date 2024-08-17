@@ -7,15 +7,15 @@ Special thanks to https://refactoring.guru for pattern descriptions.
 ## Currently implemented patterns
 
 ### Creational
-- *AbstractFactory* - multiple classes with a shared interface which are responsible for creating families of related objects.
-- *Builder* - a class which allows the user to create a complex object.
-- *Factory Method* - replaces direct object initialization with a single method. 
-- *Prototype* - allows object creation by copying existing objects.
-- *Singleton* - provides an object that has only one instance.
+- *AbstractFactory* - multiple classes with a shared interface which are responsible for creating families of related objects
+- *Builder* - a class which allows the user to create a complex object
+- *Factory Method* - replaces direct object initialization with a single method 
+- *Prototype* - allows object creation by copying existing objects
+- *Singleton* - provides an object that has only one instance
 
 ### Structural
-- *Adapter* - adapts the interface of one class to another.
-- *Bridge* - separates abstraction from implementation using 2 parts.
+- *Adapter* - adapts the interface of one class to another
+- *Bridge* - separates abstraction from implementation using 2 parts
 - *Composite* - composes objects into tree structures
 - *Decorator* - allows attaching new behaviors to objects by wrapping them
 - *Facade* - simplifies outside interaction with a group of interlinked objects
@@ -27,3 +27,4 @@ Special thanks to https://refactoring.guru for pattern descriptions.
 - *Command* - incapsulates requests in objects
 - *Interpreter* - defines a grammatical representation for a language
 - *Iterator* - provides a way to iterate over all elements of an object without exposing the object contents
+- *Mediator* - reduces chaotic dependencies between objects
