@@ -16,6 +16,7 @@ In this project you can find very basic implementations of the OOP patterns desc
 - *Bridge* - separates abstraction from implementation using 2 parts.
 - *Composite* - composes objects into tree structures
 - *Decorator* - allows attaching new behaviors to objects by wrapping them
+- *Facade* - simplifies outside interaction with a group of interlinked objects
 
 
 ### Behavioral
