@@ -1,4 +1,6 @@
-﻿namespace Singleton;
+﻿namespace Flyweight;
+
+// TODO add concrete
 
 #region Abstract
 
@@ -15,7 +17,7 @@ public class ConcreteFlyweight : IFlyweight {
 }
 
 public class FlyweightFactory {
-    public Dictionary<string, IFlyweight> Flyweights { get; set; }
+    public Dictionary<string, IFlyweight> Flyweights { get; set; } = [];
 
     public IFlyweight GetFlyweight(string key) {
         // return existing if exists
