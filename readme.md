@@ -25,3 +25,4 @@ Special thanks to https://refactoring.guru for pattern descriptions.
 ### Behavioral
 - *Chain of Responsibility* - allows to pass a request along a chain of handlers
 - *Command* - incapsulates requests in objects
+- *Interpreter* - defines a grammatical representation for a language
