@@ -26,3 +26,4 @@ Special thanks to https://refactoring.guru for pattern descriptions.
 - *Chain of Responsibility* - allows to pass a request along a chain of handlers
 - *Command* - incapsulates requests in objects
 - *Interpreter* - defines a grammatical representation for a language
+- *Iterator* - provides a way to iterate over all elements of an object without exposing the object contents
