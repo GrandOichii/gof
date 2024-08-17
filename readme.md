@@ -17,6 +17,6 @@ In this project you can find very basic implementations of the OOP patterns desc
 - *Composite* - composes objects into tree structures
 - *Decorator* - allows attaching new behaviors to objects by wrapping them
 - *Facade* - simplifies outside interaction with a group of interlinked objects
-
+- *Flyweight* - allows to replace multiple instances of a commonly created object with just one
 
 ### Behavioral

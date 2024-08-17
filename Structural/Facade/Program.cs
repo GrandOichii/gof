@@ -1,5 +1,7 @@
 ﻿namespace Facade;
 
+// TODO? make more complex
+
 public class Room {
     public bool LightsOn { get; set; } = false;
 }
@@ -9,7 +11,7 @@ public class House {
     public List<Room> _rooms = [];
 
     public void ToggleLights(bool lightsOn) {
-        foreach (var room in Rooms)
+        foreach (var room in _rooms)
             room.LightsOn = lightsOn;
     }
 }

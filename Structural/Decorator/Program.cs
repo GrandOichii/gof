@@ -20,11 +20,11 @@ public class ConcreteComponent : Component {
 
 // Decorator
 public abstract class Decorator : Component {
-    public Component? Decorator { get; set; }
+    public Component? Wrapped { get; set; }
 
     public virtual void Operation() {
         System.Console.WriteLine("Decorator Operation");
-        Decorator?.Operation();
+        Wrapped?.Operation();
     }
 }
 
