@@ -30,3 +30,4 @@ Special thanks to https://refactoring.guru for pattern descriptions.
 - *Mediator* - reduces chaotic dependencies between objects
 - *Momento* - allows to save and restore object state
 - *Observer* - defines a subscription mechanism for notifying multiple objects
+- *State* - allows to alter the behavior of an object when its internal **state** changes

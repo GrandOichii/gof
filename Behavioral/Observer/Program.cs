@@ -26,7 +26,7 @@ public class ConcreteSubject : Subject {
     private int _state = 0;
 
     public int GetState() { return _state; }
-    public int SetState(int state) { _state = state; }
+    public void SetState(int state) { _state = state; }
 }
 
 public interface IObserver {
