@@ -33,3 +33,4 @@ Special thanks to https://refactoring.guru for pattern descriptions.
 - *State* - allows to alter the behavior of an object when its internal **state** changes
 - *Strategy* - defines a family of algorithms
 - *TemplateMethod* - defines a skeleton of the algorithm
+- *Visitor* - places new interface behavior in a single class called **Visitor**
